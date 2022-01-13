@@ -1,0 +1,14 @@
+.pattern{
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: #4ea0ff;
+    width: 100%;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.logo{
+    width: 20%;
+    padding-left: 10px;
+    padding-top: 50px;
+}
