@@ -81,3 +81,21 @@ th{
 .dispari{
     background-color: lightblue;
 }
+
+.articoli-correlati1{
+    width: 25%;
+    min-height:200px ;
+    background-image: url(../img/monitor.jpg);
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.articoli-correlati2{
+    width: 25%;
+    min-height:200px ;
+    background-image: url(../img/graph.jpg);
+    display: block;
+    text-align: center;
+    color: white;
+}
