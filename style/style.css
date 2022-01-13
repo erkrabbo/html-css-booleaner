@@ -62,3 +62,22 @@ section{
     margin-top: 0px;
     padding-left: 20px;
 }
+
+table{
+    width: 100%;
+    border-style: none;
+
+}
+
+thead {
+    background-color: blue;
+    color: white;
+}
+
+th{
+    width: 30%;
+}
+
+.dispari{
+    background-color: lightblue;
+}
