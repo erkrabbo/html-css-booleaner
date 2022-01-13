@@ -88,8 +88,6 @@ th{
     width: 25%;
     min-height:200px ;
     background-image: url(../img/monitor.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
     display: block;
     text-align: center;
     color: white;
@@ -99,8 +97,6 @@ th{
     width: 25%;
     min-height:200px ;
     background-image: url(../img/graph.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
     display: block;
     text-align: center;
     color: white;

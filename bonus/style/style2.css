@@ -43,7 +43,8 @@
 .immagini{
     width: 49%;
     max-width: 49%;
-    max-height: 450px;
+    height: min-content;
+    max-height: 400px;
 }
 
 .didascalia{
@@ -104,4 +105,9 @@ th{
     display: block;
     text-align: center;
     color: white;
+}
+
+main{
+    margin-left: 5%;
+    margin-right: 5%;
 }
