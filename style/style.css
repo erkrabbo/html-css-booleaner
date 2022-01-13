@@ -49,3 +49,16 @@
     padding: 0px;
     font-size: 10px;
 }
+
+section{
+    font-weight: 530;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+.elenco-importante{
+    margin-top: 0px;
+    padding-left: 20px;
+}
